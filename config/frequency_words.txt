@@ -14,7 +14,7 @@ SSD
 香农芯创
 股票预测
 上市公司报表
-tiktok
+tik tok
 亚马逊政策
 跨境电商
 新能源汽车
@@ -47,59 +47,59 @@ CD
 代码
 字节
 bytedance
-张一鸣
-
+英伟达
+谷歌
 特斯拉
 马斯克
-
+AMD
 微软
 Microsoft
-
+自动驾驶
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
-
-谷歌
-google
+人工智能
+国产
+中国
+美国
+日本
 gemini
 deepmind
-
+核建
 chatgpt
 openai
 sora
-
+机器人
 claude
 Anthropic
-
+GitHub
 iphone
 ipad
 mac
 ios
-
+半导体技术
 ai
-!gai
-人工智能
+艾大林最帅
 
-自动驾驶
 
-机器人
 
-国产
-中国
 
-美国
-日本
-韩国
+
+
+
+
+
+
+
+
 
 芯片
 光刻机
 
-科技
 
-核能
-中国核建
+
+
+
 
 
 
